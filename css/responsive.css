@@ -1,0 +1,21 @@
+@media screen and (max-width: 580px) {
+	.carousel-caption h1{
+		font-size: 30px;
+	}
+
+}
+
+@media screen and (max-width: 480px) {
+	.carousel-caption h1{
+		font-size: 25px;
+	}
+}
+
+
+@media screen and (max-width: 768px) {
+	.navbar-default {
+	     background-color:rgba(64, 64, 64,1); 
+	     margin: 0px 0px !important ;
+
+	}
+}
